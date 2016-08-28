@@ -1,0 +1,15 @@
+{
+  "name": "helloxy",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "first"
+  },
+  "repository": {
+    "type": "git",
+    "url": "first"
+  },
+  "author": "xy",
+  "license": "ISC"
+}
